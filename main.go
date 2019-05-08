@@ -8,7 +8,7 @@ import (
     "fmt"
 )
 
-const root_path = "/var/www/"
+const root_path = "/var/www/go_uploader/"
 const upload_path = "/var/file/upload/"
 
 //「/save」用のハンドラ
